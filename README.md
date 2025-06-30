@@ -4,7 +4,7 @@ This repository contains a minimal UWP proof-of-concept demonstrating a freeze i
 
 ## ❗ Issue Summary
 
-This POC highlights a WebView2-specific freeze scenario observed under normal editing interactions inside the control. The freeze is occurs when the system is set to Best power efficiency mode, with the charger unplugged. Content length doesn't have to be large - the issue still occurs with minimal content in the editable body.
+This POC highlights a WebView2-specific freeze scenario observed under normal editing interactions inside the control. The freeze occurs when the system is set to Best power efficiency mode, with the charger unplugged. Content length doesn't have to be large - the issue still occurs with minimal content in the editable body.
 
 
 ## 🚀 How to Run the POC
